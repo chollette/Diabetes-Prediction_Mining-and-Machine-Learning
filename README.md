@@ -30,3 +30,10 @@ This approach so far achieves the best predition accuracy on PIMA Indian Diabete
 ##### Test acc:  0.9607843137254902
 
 
+## To run the codes, follow the below given sequence:
+(1) Download the PIMA INDIAN Diabetes Dataset (https://www.kaggle.com/uciml/pima-indians-diabetes-database)
+(2) Data Analysis, Visualization and Interpretation
+(3) Create Regression Data
+(4) Predict Missing Values Using Linear Regression
+(5) Diabetes Prediction
+(6) Diabetes Type Classifier
