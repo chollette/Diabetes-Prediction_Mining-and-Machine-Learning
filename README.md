@@ -24,3 +24,9 @@ Type 2 diabetes The amount of insulin in your blood is higher than what's consid
 [Sources: https://www.medicalnewstoday.com/articles/323760.php; https://www.endocrineweb.com/conditions/type-1-diabetes/what-insulin]
 
 For the above reasons, only the glucose and insulin will be used to predict diabtes and type of diabetes.
+
+This approach so far achieves the best predition accuracy on PIMA Indian Diabetes Dataset. If diabetes is diagnosed for a new instance, can classify the type of diabetes the new instance have.
+Train acc:  0.9508196721311475
+Test acc:  0.9607843137254902
+
+
